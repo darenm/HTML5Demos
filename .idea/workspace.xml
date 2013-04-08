@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e01f5ef8-1568-4c4e-9cfe-4d7f17b5c510" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo-Crank211.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/caat-box2d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/caat-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/caat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/caat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/logo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/template.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/logo.js" afterPath="$PROJECT_DIR$/public/javascripts/logo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/template.js" afterPath="$PROJECT_DIR$/public/javascripts/template.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTML5Demo.iws" />
@@ -19,7 +13,7 @@
     <file path="/index.html" changelist="e01f5ef8-1568-4c4e-9cfe-4d7f17b5c510" time="1365377532346" ignored="false" />
     <file path="/a.rxml" changelist="e01f5ef8-1568-4c4e-9cfe-4d7f17b5c510" time="1365361478905" ignored="false" />
     <file path="/a.coffee" changelist="e01f5ef8-1568-4c4e-9cfe-4d7f17b5c510" time="1365361481448" ignored="false" />
-    <file path="/Dummy.txt" changelist="e01f5ef8-1568-4c4e-9cfe-4d7f17b5c510" time="1365376878867" ignored="false" />
+    <file path="/Dummy.txt" changelist="e01f5ef8-1568-4c4e-9cfe-4d7f17b5c510" time="1365377553975" ignored="false" />
     <file path="/README.md" changelist="e01f5ef8-1568-4c4e-9cfe-4d7f17b5c510" time="1365362434750" ignored="false" />
     <file path="/Gemfile" changelist="e01f5ef8-1568-4c4e-9cfe-4d7f17b5c510" time="1365376404646" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,10 +50,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="caat.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="caat.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/caat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="0.3353204">
+            <state line="15" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="-9.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/logo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="77" selection-start="708" selection-end="708" vertical-scroll-proportion="0.24965326">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/template.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="88" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -134,13 +146,14 @@
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/public/caat.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/javascripts/logo.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="-1920" />
     <option name="width" value="1920" />
-    <option name="height" value="1174" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -456,11 +469,15 @@
       <created>1365376880068</created>
       <updated>1365376880068</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding gemfile.lock">
+      <created>1365377555108</created>
+      <updated>1365377555108</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1174" extended-state="6" />
+    <frame x="-1920" y="0" width="1920" height="1200" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -468,11 +485,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25773746" sideWeight="0.67006487" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25773746" sideWeight="0.6778281" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993513" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32217196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -539,23 +556,11 @@
     <MESSAGE value="adding gemfile.lock" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.ru">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="26" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
@@ -640,6 +645,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="88" selection-start="1144" selection-end="1144" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/caat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="52" selection-start="160" selection-end="160" vertical-scroll-proportion="-5.625">
@@ -647,9 +666,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/caat.html">
+    <entry file="file://$PROJECT_DIR$/public/javascripts/logo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="7" selection-start="363" selection-end="363" vertical-scroll-proportion="0.3353204">
+        <state line="32" column="77" selection-start="708" selection-end="708" vertical-scroll-proportion="0.24965326">
           <folding />
         </state>
       </provider>
